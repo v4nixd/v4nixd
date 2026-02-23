@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,discord,bots,linux,bash,blender,cloudflare,photoshop,premiere,ae,react,vite,html,css,tailwindcss,lua,vscode,robloxstudio,markdown&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,discord,bots,linux,bash,blender,cloudflare,photoshop,premiere,ae,react,vite,html,css,tailwindcss,lua,vscode,markdown&theme=dark&perline=7" />
   </a>
 </p>

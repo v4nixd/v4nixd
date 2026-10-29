@@ -6,4 +6,4 @@
 [![discord](https://img.shields.io/badge/%40v4nixd-discord-5865F2)](https://discord.com/users/936343190632558593)
 [![telegram](https://img.shields.io/badge/%40v4nixd-telegram-24A1DE)](https://v4nixd.t.me)
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,bun,nodejs,cs,discord,bots,linux,bash,cloudflare,react,nextjs,html,css,tailwindcss,lua,vscode,docker,figma,git,github,pycharm,webstorm,postgres,sqlite,prisma&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,bun,discord,bots,linux,react,nextjs,html,css,tailwindcss,docker,postgres,sqlite,prisma&theme=dark&perline=9" />
